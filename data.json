@@ -1,0 +1,26 @@
+{
+  "next_id": 4,
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026-06-28",
+      "description": "Coffee",
+      "amount": 4.5,
+      "category": "Food"
+    },
+    {
+      "id": 2,
+      "date": "2026-06-28",
+      "description": "Bus fare",
+      "amount": 1.8,
+      "category": "Transport"
+    },
+    {
+      "id": 3,
+      "date": "2026-06-28",
+      "description": "Lunch",
+      "amount": 12.0,
+      "category": null
+    }
+  ]
+}
